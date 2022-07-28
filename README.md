@@ -1,1 +1,1 @@
-# map-method-js
+# es6-category-nav
